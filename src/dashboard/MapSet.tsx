@@ -1,9 +1,10 @@
 import React from 'react';
+import './index.dashboard.css';
 
 export function MapSet() {
-	return (
-		<>
-			<p>Hello, I'm one of the panels in your bundle! I'm where you put your controls.</p>
+  return (
+    <>
+      {/* <p>Hello, I'm one of the panels in your bundle! I'm where you put your controls.</p>
 
 			<p>
 				To edit me, open "<span className="monospace">src/dashboard/MapSet.tsx</span>" in your favorite text
@@ -21,7 +22,10 @@ export function MapSet() {
 				documentation.
 			</p>
 
-			<p>You've got this!</p>
-		</>
-	)
+			<p>You've got this!</p> */}
+
+      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"> Save</button>
+      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Reset</button>
+    </>
+  );
 }

@@ -1,0 +1,190 @@
+{
+  "maps": [
+    {
+      "id": 1,
+      "name": "Control",
+      "maps": [
+        {
+          "id": 1,
+          "name": "Busan",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Busan.jpg",
+          "video": ""
+        },
+        {
+          "id": 2,
+          "name": "Ilios",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Ilios.jpg",
+          "video": ""
+        },
+        {
+          "id": 3,
+          "name": "Lijiang Tower",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Lijiang-Tower.jpg",
+          "video": ""
+        },
+        {
+          "id": 4,
+          "name": "Nepal",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Nepal.jpg",
+          "video": ""
+        },
+        {
+          "id": 5,
+          "name": "Oasis",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Oasis.jpg",
+          "video": ""
+        },
+        {
+          "id": 6,
+          "name": "Anartic Peninsula",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Necropolis.jpg",
+          "video": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Escort",
+      "maps": [
+        {
+          "id": 1,
+          "name": "Dorado",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Dorado.jpg",
+          "video": ""
+        },
+        {
+          "id": 2,
+          "name": "Junkertown",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Junkertown.jpg",
+          "video": ""
+        },
+        {
+          "id": 3,
+          "name": "Rialto",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Rialto.jpg",
+          "video": ""
+        },
+        {
+          "id": 4,
+          "name": "Route 66",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Route-66.jpg",
+          "video": ""
+        },
+        {
+          "id": 5,
+          "name": "Watchpoint: Gibraltar",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Watchpoint-Gibraltar.jpg",
+          "video": ""
+        },
+        {
+          "id": 6,
+          "name": "Havana",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Havana.jpg",
+          "video": ""
+        },
+        {
+          "id": 7,
+          "name": "Circuit Royal",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Havana-Storm-Rising.jpg",
+          "video": ""
+        },
+        {
+          "id": 8,
+          "name": "Shambali Monastery",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Havana-Storm-Rising.jpg",
+          "video": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hybrid",
+      "maps": [
+        {
+          "id": 1,
+          "name": "Blizzard World",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Blizzard-World.jpg",
+          "video": ""
+        },
+        {
+          "id": 2,
+          "name": "Eichenwalde",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Eichenwalde.jpg",
+          "video": ""
+        },
+        {
+          "id": 3,
+          "name": "Hollywood",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Hollywood.jpg",
+          "video": ""
+        },
+        {
+          "id": 4,
+          "name": "King's Row",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Kings-Row.jpg",
+          "video": ""
+        },
+        {
+          "id": 5,
+          "name": "Numbani",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Numbani.jpg",
+          "video": ""
+        },
+        {
+          "id": 6,
+          "name": "Paraiso",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Havana.jpg",
+          "video": ""
+        },
+        {
+          "id": 7,
+          "name": "Midtown",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Havana-Storm-Rising.jpg",
+          "video": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Push",
+      "maps": [
+        {
+          "id": 1,
+          "name": "Colloseo",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Toronto.jpg",
+          "video": ""
+        },
+        {
+          "id": 2,
+          "name": "New Queen Street",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Gothenburg.jpg",
+          "video": ""
+        },
+        {
+          "id": 3,
+          "name": "Esperanca",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Monte-Carlo.jpg",
+          "video": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Flashpoint",
+      "maps": [
+        {
+          "id": 1,
+          "name": "New Junk City",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Paris.jpg",
+          "video": ""
+        },
+        {
+          "id": 2,
+          "name": "Survasa",
+          "image": "https://d1u1mce87gyfbn.cloudfront.net/map-images/Horizon-Lunar-Colony.jpg",
+          "video": ""
+        }
+      ]
+    }
+  ]
+}

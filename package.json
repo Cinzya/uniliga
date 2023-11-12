@@ -27,6 +27,13 @@
         "width": 4,
         "file": "map-set.html",
         "headerColor": "#525F78"
+      },
+      {
+        "name": "Reacts",
+        "title": "Reacts",
+        "width": 4,
+        "file": "reacts.html",
+        "headerColor": "#525F78"
       }
     ],
     "graphics": [
